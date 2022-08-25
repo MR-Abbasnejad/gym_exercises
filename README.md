@@ -1,4 +1,4 @@
-#Build and Deploy a Modern React 18 Fitness Exercises App With APIs | Golds Gym
+# Build and Deploy a Modern React 18 Fitness Exercises App With APIs | Golds Gym
 
 
 [check deployed version](https://gym-exercises-rho.vercel.app/)
